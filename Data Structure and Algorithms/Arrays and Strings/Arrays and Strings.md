@@ -192,30 +192,3 @@ func twoSumSorted(_ nums: [Int], _ target: Int) -> [Int] {
 
 // Time: O(n), Space: O(1)
 ```
-
-
-```
-# There is a self-driving car in the middle lane at the beginning of a 3-lane, 1000 unit long highway.
-
-# Along the road, there are some obstacles (marked "O"). If the car overlaps an obstacle, it crashes and cannot continue.
-
-# The car has a very limited memory. It can accept a string of 10 characters, which can be D, R, or L.
-
-# The letter D instructs the car to drive forward 1 unit, the letters R or L will shift the car to the right or left without moving forward.
-
-# The car continuously loops over this string of 10 commands, until it reaches the end, crashes, or runs out of fuel.
-
-# Find a string of 10 characters that brings the car to the end of the road.
-
-
-# Sample Input:
-
-.O.......O......O..... 
-...O....O......O... 
-.OOOO...O..O...OO.O..
-
-
-# Solution:
-
-Correct Answer: DDLDDDRDDD
-```

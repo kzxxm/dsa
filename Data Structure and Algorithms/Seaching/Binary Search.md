@@ -80,5 +80,3 @@ if let index = binarySearch(numbers, target: 7) {
     print("Not found")
 }
 ```
-
-#### Lower Bound (First Position Where Element Could Be Inserted)

@@ -28,9 +28,3 @@ Tree representation:
  /  \   /  \ 
 10  20 15  35
 ```
-
-## Swift Implementation: Building a Heap from Scratch
-
-```
-
-```
